@@ -6,7 +6,7 @@ Established practices of experimental work and scientific publishing have recent
 ## Schedule
 
 session | day | topic | reading
---- | --- | --- | ---
+:--- | :--- | :--- | :---
 1 | Oct 25 | introduction | [estimating reproducibility](http://science.sciencemag.org/content/349/6251/aac4716)
 2  | Nov 15 | roots of the "crisis" 1 | [most false](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124), Chambers Ch. 1
 3  | Nov 22 | roots of the "crisis" 2 | Chambers Ch. 2 - 3
