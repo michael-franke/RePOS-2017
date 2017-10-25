@@ -2,6 +2,8 @@
 
 A bunch of ideas for studies you might try to replicate. 
 
+&nbsp;
+
 ### Epistemic modality
 
 | &nbsp;     | 
@@ -43,7 +45,7 @@ A bunch of ideas for studies you might try to replicate.
 | &nbsp;     | 
 | :--- | :--- 
 | Authors | Sonja Tieman et al.
-| Title | [Psycholinguistic Evidence for Presuppositions:On-line and Off-line Data](http://universaar.uni-saarland.de/monographien/volltexte/2011/30/artikel/Tiemann_et_al_sub15.pdf)
+| Title | [Psycholinguistic Evidence for Presuppositions: On-line and Off-line Data](http://universaar.uni-saarland.de/monographien/volltexte/2011/30/artikel/Tiemann_et_al_sub15.pdf)
 | Keywords | presupposition processing, self-paced reading
 | Difficulty | difficult
 | Group | 3-4
