@@ -11,7 +11,9 @@ session | day | topic | reading
 2  | Nov 15 | roots of the "crisis" 1 | [most false](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124), Chambers Ch. 1
 3  | Nov 22 | roots of the "crisis" 2 | Chambers Ch. 2 - 3
 4  | Nov 29 | potential solutions | Chambers Ch. 8 
-5  | Dec 6  | "how to" 1: MTurk, OSF.io | 
+5  | Dec 6  | "how to" 1: MTurk | 
+6  | Dec 13 | "how to" 2: OSF, preregistration | 
+7  | Dec 20 | project presentations | 
 
 
 ## Links & resources
