@@ -12,6 +12,7 @@ A bunch of ideas for studies you might try to replicate.
 | Difficulty | easy
 | Group | 1-2
 
+&nbsp;
 
 ### Impact of metaphors on reasoning
 
@@ -23,6 +24,7 @@ A bunch of ideas for studies you might try to replicate.
 | Difficulty | easy
 | Group | 2-3
 
+&nbsp;
 
 ### Intutive physics & counterfactual reasoning
 
@@ -33,6 +35,8 @@ A bunch of ideas for studies you might try to replicate.
 | Keywords | intuitive physics, counterfactuals
 | Difficulty | moderate
 | Group | 2-3
+
+&nbsp;
 
 ### Presupposition processing, self-paced reading
 
