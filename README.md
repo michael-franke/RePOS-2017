@@ -8,12 +8,11 @@ Established practices of experimental work and scientific publishing have recent
 session | day | topic | reading
 :--- | :--- | :--- | :---
 1 | Oct 25 | introduction ([slides](slides/01_RePOS_intro.pdf)) | [estimating reproducibility](http://science.sciencemag.org/content/349/6251/aac4716)
-2  | Nov 15 | roots of the "crisis" 1 ([slides 1](slides/02a_stats_primer.html)) ([slides2](slides/02b_why_false.pdf)) | [most false](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124), Chambers Ch. 1
-3  | Nov 22 | roots of the "crisis" 2 | Chambers Ch. 2 - 3
-4  | Nov 29 | potential solutions | Chambers Ch. 8 
-5  | Dec 6  | "how to" 1: MTurk | 
-6  | Dec 13 | "how to" 2: OSF, preregistration | 
-7  | Dec 20 | project presentations | 
+2  | Nov 15 | roots of the "crisis" ([slides 1](slides/02a_stats_primer.html)) ([slides2](slides/02b_why_false.pdf)) | [most false](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124), Chambers Ch. 1
+3  | Nov 22 | roots & remedies of the "crisis" ([handout](handouts/03_roots.pdf))  | Chambers Ch. 2, 3 & 8
+4  | Nov 29 | "how to" 1: git, R, tidyverse | 
+5  | Dec 6  | "how to" 2: MTurk, OSF, preregistration | 
+6  | Dec 13 | project presentations | 
 
 
 ## Links & resources
